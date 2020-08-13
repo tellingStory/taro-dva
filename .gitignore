@@ -1,0 +1,16 @@
+.buildpath
+dist/
+rn_temp/
+node_modules/
+.settings/
+.project
+*.patch
+.idea/
+.git/
+runtime/
+vendor/
+.phpintel/
+.env
+.DS_Store
+*.lock
+.phpunit*
